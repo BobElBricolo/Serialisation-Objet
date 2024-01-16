@@ -1,0 +1,41 @@
+{
+  "type": "Devoir2.Test",
+  "Chiffre": {
+    "type": "System.Int32",
+    "value": "420"
+  },
+  "nombre": {
+    "type": "System.Int32",
+    "value": "1"
+  },
+  "nom": {
+    "type": "System.String",
+    "value": "Nice"
+  },
+  "testR": {
+    "type": "Devoir2.TestRecursif",
+    "nombreR": {
+      "type": "System.Int32",
+      "value": "2"
+    },
+    "nomR": {
+      "type": "System.String",
+      "value": "Nicer"
+    },
+    "tableau": {
+      "type": "System.Int32[][]",
+      "value": [
+        [
+          "1",
+          "2",
+          "3"
+        ],
+        [
+          "4",
+          "5",
+          "6"
+        ]
+      ]
+    }
+  }
+}
